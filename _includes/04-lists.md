@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. :star:
+2. :wave:
+3. :muscle:
+   1. :boy:
+   2. :leopard:
