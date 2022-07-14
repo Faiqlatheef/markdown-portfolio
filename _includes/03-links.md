@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![LikenIn](https://www.linkedin.com/in/faiq-latheef-29b0b616a/)
